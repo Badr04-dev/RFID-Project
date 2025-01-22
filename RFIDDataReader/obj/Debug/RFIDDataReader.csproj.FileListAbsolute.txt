@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\bin\Debug\RFIDDataReader.exe.config
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\bin\Debug\RFIDDataReader.exe
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\bin\Debug\RFIDDataReader.pdb
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.Form1.resources
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.Properties.Resources.resources
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.exe
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.pdb
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.Form2.resources
+C:\Users\DELL\source\repos\RFIDDataReader\RFIDDataReader\obj\Debug\RFIDDataReader.Form3.resources
